@@ -3,3 +3,5 @@ Vermelho
 Preto
 Laranja
 Dourado
+Lilás
+Verde
