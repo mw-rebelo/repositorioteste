@@ -2,3 +2,4 @@ Azul
 Vermelho
 Preto
 Laranja
+Dourado
